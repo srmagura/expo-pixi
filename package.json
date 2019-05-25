@@ -1,5 +1,5 @@
 {
-  "name": "expo-pixi",
+  "name": "@interface-technologies/expo-pixi",
   "version": "1.1.0",
   "sideEffects": true,
   "description": "Tools for using pixi in Expo",
